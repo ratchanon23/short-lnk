@@ -1,7 +1,7 @@
-Short Lnk
+## Short Lnk
 
 This is a link shortener built Meteor and React.
 
-Authors
+## Authors
 
 Ratchanon Ploynumphol
