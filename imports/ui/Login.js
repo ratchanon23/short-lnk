@@ -40,7 +40,7 @@ class Login extends Component {
                         <input type='password' name='password' ref='password' placeholder='Password' />
                         <button className='button'>Login</button>
                     </form>
-                    <Link to='/signup'> Have an account? </Link>
+                    <Link to='/signup'> Need an account? </Link>
                 </div>
             </div>
         )
